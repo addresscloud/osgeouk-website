@@ -17,13 +17,13 @@ We are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) 
 
 ### Registration
 
-There are still a few places available.
-Please register via [the FOSS4GUK form](https://www.eventbrite.co.uk/e/foss4g-uk-local-2022-tickets-405826868087) (Deadline 10 November 2022).
-Coffee and lunch will be provided; please indicate any dietary requirements on the form.
+Places for the Keyworth meeting are now sold out.
 
 The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) - see [here](https://uk.osgeo.org/foss4guk2022local/index.html#registration) for details.
 
 ### Programme
+
+The meeting is on Thursday 17 November 2022.
 
 The event will be held in MR 1+2, beside the canteen.
 National keynotes will be streamed to watch together and the start and end of the day.
@@ -36,6 +36,7 @@ MR 1 and 2 will be partitioned to allow two streams to run in parallel.
 
 The 3D Visualisation Suite will be available all day for collective viewing of streamed
 sessions from other venues on the big screen.
+See the [this spreadsheet](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM) for schedules of presentations at other sites.
 
 *National keynotes*
 
@@ -56,12 +57,12 @@ Time | Speaker| Title|
 11:50 - 12:00|Edward Lewis|BGS & OGC APIs
 12:00 - 12:10|Daniel Warren|An example implementation of Leaflet – a lightweight interactive mapping tool
 12:10 - 12:20|-|Break
-12:20 - 12:30|Dr Chris Williams|An open source approach to geomorphometric analysis and terrain feature classification
+12:20 - 12:30|Sophie Taylor|Filling gaps in Lidar data with a coarser DTM using open source python libraries
 12:30 - 12:40|Dr Kathryn Leeming|R for geospatial analysis
-12:40 - 12:50|Dr Matthew Haines|The use of OSS4G in a capability study of a digital twin of UK soils
+12:40 - 12:50|Dr Matthew Haines|The use of FOSS4G in a capability study of a digital twin of UK soils
 12:50 - 13:00|Nikki Smith|Open source for BGS international work
 13:00 - 13:30|-|Lunch and networking
-13:30 - 14:00|Dr John A Stevenson|Discussion session: Increasing open source adoption at the British Geological Survey
+13:30 - 14:00|Dr John A Stevenson|[Discussion session: Increasing open source adoption at the British Geological Survey](https://github.com/volcan01010/foss4g2022local)
 14:00 - 14:30|All|Field data capture / Unconference
 14:30 - 15:00|All|BGS open data in QGIS (demo) / Unconference
 15:00 - 15:30|All|Unconference / Unconference
@@ -107,3 +108,7 @@ Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward oth
 ### Questions
 
 Any questions, please contact [John Stevenson](mailto:jostev@bgs.ac.uk) and [Chris Williams](mailto:chrwil@bgs.ac.uk) or email [osgeouk@gmail.com](mailto:osgeouk@gmail.com).
+
+### Feedback
+
+Following the meeting, please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSfMWtZh-MwV_TMyiVlTFku7qX6lAlg0ZMkth4MVThckDMqTng/viewform) to provide feedback.  Some respondents will be selected at random to win a prize.

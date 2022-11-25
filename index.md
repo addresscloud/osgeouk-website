@@ -3,11 +3,11 @@ layout: default
 ---
 
 
-### FOSS4G:UK Local 2022 - Call for Papers!
+### FOSS4G:UK Local 2022
 
-We are [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/) on *Thu 17 Nov 2022*. This will be a hybrid conference, but with a twist: there will be no central physical location. We have 8 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. 
+We ran [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/) on *Thu 17 Nov 2022*. This was a hybrid conference, but with a twist: there was no central physical location. We had 9 venues geographically dispersed across the UK. 
 
-For details of the call for talks, venue and all the details, check out the [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/) site.
+For details, check out the [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/) site.
 
 ----
 
@@ -54,7 +54,7 @@ __Officers__
 __Committee__
 
 * [Dave Barter](https://twitter.com/NautoGuide)
-* [Tom Chadwin](https://twitter.com/chadwin)
+* [Tom Chadwin](https://twitter.com/tomchadwin)
 * [Alastair Graham](https://twitter.com/ajggeoger)
 * [Tom Armitage](https://twitter.com/MapNav_Tom)
 * [Joseph Seddon](https://twitter.com/josephseddon)
@@ -67,14 +67,7 @@ See [past donations](pastdonations.html){:target="_newpage"} for yearly breakdow
 
 ### Donate
 
-Help us support and promote the use of open source geospatial software within the UK by donating via PayPal using the button below:
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="42G7PKK5YV6NU">
-<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
+Help us support and promote the use of open source geospatial software within the UK [by donating via PayPal](donations.html){:target="_newpage"}.
 
 
 

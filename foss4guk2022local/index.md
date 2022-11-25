@@ -4,76 +4,55 @@ layout: foss4guk2022
 
 ## FOSS4G:UK Local 2022
 
-[OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! A whole day of talks, workshops and networking across the UK. Take a look at our previous programmes for [FOSS4GUK Online 2020](https://uk.osgeo.org/foss4gukonline2020/programme.html) and [FOSS4GUK 2019 in Edinburgh](https://uk.osgeo.org/foss4guk2019/FOSS4GUK_2019_Programme.pdf) to get a flavour of things to come!
+We ran FOSS4G:UK Local 2022 on *Thu 17 Nov 2022*. Many thanks to everyone who attended, presented and helped organise the conference. We had 246 attendees in person and ~50 online, meaning we reached a total of about 300 people on the day. 
 
-We are running FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://postgisday.rocks/) day. This will be a hybrid conference, but with a twist: there will be no central physical location. We have nine venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue.
+This was a hybrid conference, but with a twist: there was no central physical location. We had 9 venues geographically dispersed across the UK, and online access. Videos of the presentations are available on our [YouTube channel](https://www.youtube.com/@FOSS4GUK/streams) with links on each venue page. The full agenda for all venues, with links to each session is [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM).
 
-If there is no physical location near you, you could host your own. Venues don’t need to be big - you can meet up with a couple of friends locally if that works for you. If you would like to host an extra venue please let us know. You will also be able to join remotely and view the streamed sessions from wherever you are, if you can’t get to a venue. We will also have the [OSGeo:UK Matrix room](https://matrix.to/#/#OSGeoUK:matrix.org) to allow people to chat to each other before, during and after the event.
+You are also welcome to continue chatting with participants through the OSGeo:UK Matrix Room: [#OSGeoUK:matrix.org](https://matrix.to/#/#OSGeoUK:matrix.org). Check out this [page](https://nickbearman.github.io/installing-software/element-matrix-public) for details on how to sign up. All participants are expected to follow the [Code of Conduct](https://uk.osgeo.org/foss4guk2022local/code-of-conduct). 
+
+## Keynotes
+
+We had three thought provoking keynote presentations:
+
+<img src="images/graser.jpg" width="140"><br>[Shaping Open Spatical Data Science](https://www.youtube.com/watch?v=Iza34-rtQ4A&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=4) by [Anita Graser](https://anitagraser.com/) | <img src="images/tim-sutton.jpg" width="100"><br>[20 Years of QGIS: Successes and Failures of a Global Phenomenon](https://www.youtube.com/watch?v=UJWmX16rVQc&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=3) by [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) | <img src="images/regina-obe.jpg" width="150"><br> [PostGIS Vision: Past, Present, and Future](https://www.youtube.com/watch?v=xnF0PqMB3cI&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=2) by [Regina Obe](https://twitter.com/reginaobe)
 
 ## Venues
 
-These are our local venues.
-
 Location | Chair(s)
 --- | ---
-[Bovey Tracy (Dartmoor National Park)](boveytracey.html#foss4guk-local-2022---bovey-tracy-dartmoor-national-park-offices) | [Dave Barter](https://twitter.com/NautoGuide) & [Matt Travis](https://twitter.com/yakus)
-[Bristol](bristol.html#foss4guk-local-2022---bristol-engine-shed-bristol-temple-meads) | [Ant Scott](https://twitter.com/antscott) & [Alastair Graham ](https://twitter.com/ajggeoger)
-[Cardiff](cardiff.html#foss4guk-local-2022---cardiff-jurys-inn) | [Kevin Williams](mailto:Kevin.Williams001@gov.wales)
-[Glasgow](glasgow.html#foss4guk-local-2022---glasgow-university-of-glasgow) | [Tom Armitage](https://twitter.com/MapNav_Tom) & Ana Basiri
+[Bovey Tracey (Dartmoor National Park)](boveytracey.html#foss4guk-local-2022---bovey-tracy-dartmoor-national-park-offices) <a href="https://www.youtube.com/playlist?list=PLCvveKqdciOkw46JctT9y8tq-A0C8x3ER" target="_blank"><img src="images/youtube.png" height="15"></a> | [Dave Barter](https://twitter.com/NautoGuide) & [Matt Travis](https://twitter.com/yakus)
+[Bristol](bristol.html#foss4guk-local-2022---bristol-engine-shed-bristol-temple-meads) <a href="https://www.youtube.com/playlist?list=PLCvveKqdciOln0SVWw75H0rtivnQgHIcq" target="_blank"><img src="images/youtube.png" height="15"></a> | [Ant Scott](https://twitter.com/antscott) & [Alastair Graham](https://twitter.com/ajggeoger)
+[Cardiff](cardiff.html#foss4guk-local-2022---cardiff-jurys-inn) <a href="https://www.youtube.com/playlist?list=PLCvveKqdciOle8UEJxONevO7djjWJnwvT" target="_blank"><img src="images/youtube.png" height="15"></a> | [Kevin Williams](mailto:Kevin.Williams001@gov.wales)
+[Glasgow](glasgow.html#foss4guk-local-2022---glasgow-university-of-glasgow) <a href="https://www.youtube.com/playlist?list=PLCvveKqdciOkWG1LlYTrTAlwinlFtRBAD" target="_blank"><img src="images/youtube.png" height="15"></a> | [Tom Armitage](https://twitter.com/MapNav_Tom), [Ana Basiri](https://twitter.com/anahidbasiri) & [Piet Gerrits](https://pgerrits.com/)
 [Keyworth (British Geological Survey)](keyworth.html#foss4guk-local-2022---keyworth-british-geological-survey) | [John Stevenson](mailto:jostev@bgs.ac.uk) & [Chris Williams](mailto:chrwil@bgs.ac.uk)
-[Leeds](leeds.html#foss4guk-local-2022---leeds-platform)	| [Mike West](mailto:foss4g@addresscloud.com), [Tomas Holderness](mailto:foss4g@addresscloud.com) & Robin Lovelace
-[London](london.html#foss4guk-local-2022---london-clyde--co-fenchurch-st) | [Simon Miles](https://twitter.com/geosmiles)
-[Manchester](manchester.html#foss4guk-local-2022---manchester-the-university-of-manchester) | [Jonny Huck](https://jonnyhuck.co.uk)
-[Southampton (Ordnance Survey)](southampton.html#foss4guk-local-2022---southampton-ordnance-survey) | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
-*National Chair* | [Nick Bearman](https://twitter.com/nickbearmanuk)
-
-## Call for Talks
-
-The Call for Talks is now closed. We will be in touch soon confirming if your talk has been accepted. 
-
-Any general queries please contact the national chair, Nick Bearman or <span class="osgeoemail"></span>. Any venue specific query please contact the local venue chair, listed above.
-
-## Schedule
-
-The national schedule for Thurs 17th Nov 2022 is:
-- 09:30 - 10:00 - Opening and welcome
-- 10:00 - 10:30 - [Anita Graser](https://anitagraser.com/): Shaping Open Spatial Data Science
-- 10:30 - 11:00 - [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/): 20 Years of QGIS: Successes and Failures of a Global Phenomenon
-- 11:00 - 16:00 - local arrangements
-- 16:00 - 16:30 - [Regina Obe](https://twitter.com/reginaobe): PostGIS Vision: Past, Present, and Future
-- 16:30 - 16:45 - Wrap-up
-- 16:45 onwards - local arrangements
-
-The local venue chairs will decide what sessions they run between 11:00 - 16:00. We have recommended sizable networking opportunities as well as lunch, alongside the sessions!
-
-## Keynote Presentations
-
-We are delighted to have keynote presentations from three leading contibutors to open source GIS worldwide: [Regina Obe](https://twitter.com/reginaobe), [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/), and [Anita Graser](https://anitagraser.com/) - these will be streamed live to all the venues.
-
-<img src="images/graser.jpg" width="150"><br>[Anita Graser](https://anitagraser.com/) | <img src="images/tim-sutton.jpg" width="150"><br>[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) | <img src="images/regina-obe.jpg" width="150"><br>[Regina Obe](https://twitter.com/reginaobe)
+[Leeds](leeds.html#foss4guk-local-2022---leeds-platform) <a href="https://www.youtube.com/playlist?list=PLCvveKqdciOlDKX7c4du8KsSGLplZSttd" target="_blank"><img src="images/youtube.png" height="15"></a> | [Mike West](mailto:foss4g@addresscloud.com) & [Tomas Holderness](mailto:foss4g@addresscloud.com)
+[London](london.html#foss4guk-local-2022---london-clyde--co-fenchurch-st) <a href="https://www.youtube.com/playlist?list=PLCvveKqdciOm0Y9zT_q8QahTqWooF4fkg" target="_blank"><img src="images/youtube.png" height="15"></a> | [Simon Miles](https://twitter.com/geosmiles)
+[Manchester](manchester.html) <a href="https://www.youtube.com/playlist?list=PLCvveKqdciOld6NNnuqZQGMMJ2uTcWZHo" target="_blank"><img src="images/youtube.png" height="15"></a> | [Jonny Huck](https://jonnyhuck.co.uk)
+[Southampton (Ordnance Survey)](southampton.html#foss4guk-local-2022---southampton-ordnance-survey) <a href="https://www.youtube.com/playlist?list=PLCvveKqdciOnZAXPuzE6kiGo4V4XV89W9" target="_blank"><img src="images/youtube.png" height="15"></a> | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
+*National Chair* <a href="https://www.youtube.com/watch?v=HDgwwCYhBts&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp" target="_blank"><img src="images/youtube.png" height="15"></a> | [Nick Bearman](https://twitter.com/nickbearmanuk)
 
 
-## Registration
+## Donations
 
-[Registration is now open!](https://www.eventbrite.co.uk/e/foss4g-uk-local-2022-tickets-405826868087) Follow us on [Twitter](https://twitter.com/osgeouk) / [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK&src=typed_query), join our [mailing list](https://lists.osgeo.org/mailman/listinfo/uk), and keep an eye on this site for more details.
-
-The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) to one of these causes:
+Many thanks if you have already donated to one of our causes. If you haven't, we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) to one of these causes:
 
 ### OSGeo:UK
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="42G7PKK5YV6NU">
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
+<br>
 
 ### MapAction 
-[MapAction](https://mapaction.org/donate/)
+[<img src="images/MapAction_Tagline_Logo_Positive_RGB_Small.png" width="150"><br>MapAction](https://mapaction.org/donate/)
+
 
 
 ## Code of Conduct
-Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward others in accordance with the [FOSS4GUK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.*
-
+Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward others in accordance with the [FOSS4G:UK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.*
 
 ## Contact
 [@OSGeoUK](https://twitter.com/osgeouk) or <span class="osgeoemail"></span>.
